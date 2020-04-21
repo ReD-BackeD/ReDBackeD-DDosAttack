@@ -187,12 +187,8 @@ def logo():
     print('''
              - RED BACKED Bypass JS/UAM/Captcha/etc -
 
-                                    RR         RR     RR
-    /\_____/\                       RR         RR     RR
-   /  o   o  \                      RR         RRRRRRRRR
-  ( ==  ^  == )                     RR                RR
-   )         (                      RRRRRRR      RRRRRRR 
-  (           )
+                                   
+    /\_____/\                      
   (           )   ========================================================
  ( (  )   (  ) )     Anonymous DDoSer v2.8 - Best HTTP Flooder For FREE
 (__(__)___(__)__)                 Made By: ReD-BackeD
